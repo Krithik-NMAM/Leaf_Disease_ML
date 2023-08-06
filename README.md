@@ -1,1 +1,1 @@
-# Leaf_Disease_ML
+Plant leaf diseases can have a significant impact on crop yields and agricultural productivity. Early detection of these diseases is crucial to take timely actions and prevent widespread damage. Machine learning techniques offer a promising solution to automatically identify and classify leaf diseases accurately and efficiently. This project aims to demonstrate a plant leaf disease detection system using machine learning.
